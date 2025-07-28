@@ -1,4 +1,5 @@
 // notify.js
+installApp("Notify Manual","https://usejxo.github.io/Jxo-Plugins/notify/manual/icon.png","https://usejxo.github.io/Jxo-Plugins/notify/manual/")
 ;(function(global) {
   // Prevent double‑loading
   if (global.notify && global.notify._isNotify) return;
@@ -163,3 +164,6 @@
     queue.length = 0;
   }
 })(window);
+function exampleclickjs() {
+    notify("ClickJS","Runs JS when clicked.")
+}
