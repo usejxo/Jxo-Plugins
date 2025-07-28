@@ -1,0 +1,1 @@
+uninstallApp("notify manual")

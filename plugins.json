@@ -5,5 +5,12 @@
     "desc": "Lets you switch the Jstore app repo.",
     "scriptUrl": "https://usejxo.github.io/Jxo-Plugins/reposwitch/main.js",
     "uninstallUrl": "https://usejxo.github.io/Jxo-Plugins/reposwitch/uninstall.js"
+  },
+    {
+    "name": "Notify",
+    "icon": "https://usejxo.github.io/Jxo-Plugins/notify/icon.png",
+    "desc": "Installs the notify manual app and allows to send notifications.",
+    "scriptUrl": "https://usejxo.github.io/Jxo-Plugins/notify/main.js",
+    "uninstallUrl": "https://usejxo.github.io/Jxo-Plugins/notify/uninstall.js"
   }
 ]
