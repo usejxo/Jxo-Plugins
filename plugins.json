@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Jstore Repo Switcher",
+    "icon": "https://usejxo.github.io/Jxo-Plugins/reposwitch/icon.png",
+    "desc": "Adds a toggle button to switch the entire UI between light and dark themes.",
+    "scriptUrl": "https://usejxo.github.io/Jxo-Plugins/reposwitch/main.js",
+    "uninstallUrl": "https://usejxo.github.io/Jxo-Plugins/reposwitch/uninstall.js"
+]
